@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 0d1450f2450924a8795bb99e6810e16f2a4167f3 Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627460139 +0100	clone: from github.com:Plotpilot/pilot-api-terraform.git
+0d1450f2450924a8795bb99e6810e16f2a4167f3 90f831e1e83e50cc4554e9da5769d8eb309f9b4f Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627471319 +0100	commit: Removing RDS module until I can do it better.
+90f831e1e83e50cc4554e9da5769d8eb309f9b4f d576fdd357e781ddcbc05a2a533463f9f6a531ee Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627472206 +0100	commit: Removing terraform state files from version control.
+d576fdd357e781ddcbc05a2a533463f9f6a531ee bb5f0f755ce648d174b2e8967058fa54b7acf323 Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627472834 +0100	commit: Adding AWS config files.
+bb5f0f755ce648d174b2e8967058fa54b7acf323 c7c97851ae6672c9337698f652f88aaa7b0c531a Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627483997 +0100	commit: Refactored for better practices.
+c7c97851ae6672c9337698f652f88aaa7b0c531a d87764cdabe881d59715d6b6196f1116509fa725 Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627719843 +0100	commit: Updating code and adding lambda.
+d87764cdabe881d59715d6b6196f1116509fa725 d87764cdabe881d59715d6b6196f1116509fa725 Nathan Daly <nathandalypretoria@hotmail.co.uk> 1627823498 +0100	reset: moving to HEAD
