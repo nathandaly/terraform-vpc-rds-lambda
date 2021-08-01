@@ -1,6 +1,7 @@
 module "vpc" {
   source = "./modules/vpc"
 }
+
 module "rds" {
   source = "./modules/rds"
   vpc_id = module.vpc.output_vpc_id
